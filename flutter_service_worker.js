@@ -4,11 +4,11 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"version.json": "089bdc73e4c9b0fa6c166f8523a50845",
-"main.dart.js_1.part.js": "9b66af1296d1743c9fc9ed09f407eaed",
+"main.dart.js_1.part.js": "19e9fcf852c0b1682926ee84f74a3f17",
 "icons/Icon-192.png": "98b1a9975bd86201a02e52371002ba03",
 "icons/Icon-512.png": "8a577a42586708e79f47de1bfe4d7160",
-"index.html": "43dc9f908b3a865e22d84212dc2fe180",
-"/": "43dc9f908b3a865e22d84212dc2fe180",
+"index.html": "0f6b137faa0a6accb609f6cd35652f77",
+"/": "0f6b137faa0a6accb609f6cd35652f77",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
 "canvaskit/skwasm.js": "ea559890a088fe28b4ddf70e17e60052",
 "canvaskit/chromium/canvaskit.wasm": "c054c2c892172308ca5a0bd1d7a7754b",
@@ -49,7 +49,7 @@ const RESOURCES = {"version.json": "089bdc73e4c9b0fa6c166f8523a50845",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "30b9bea5ce0e0fc01a68564349b7d72d",
 "assets/packages/record_web/assets/js/record.fixwebmduration.js": "1f0108ea80c8951ba702ced40cf8cdce",
 "assets/packages/record_web/assets/js/record.worklet.js": "356bcfeddb8a625e3e2ba43ddf1cc13e",
-"main.dart.js": "f331f676aab683f82fa279509bd16d85",
+"main.dart.js": "b8f1a72a0db653c1a662647cefcb00a7",
 "splash/img/dark-2x.png": "98b1a9975bd86201a02e52371002ba03",
 "splash/img/light-1x.png": "98b1a9975bd86201a02e52371002ba03",
 "splash/img/dark-1x.png": "98b1a9975bd86201a02e52371002ba03",
@@ -59,7 +59,7 @@ const RESOURCES = {"version.json": "089bdc73e4c9b0fa6c166f8523a50845",
 "splash/img/light-2x.png": "98b1a9975bd86201a02e52371002ba03",
 "splash/img/dark-3x.png": "8a577a42586708e79f47de1bfe4d7160",
 "splash/style.css": "740c493f9c5dfc859ca07663691b24fb",
-"flutter_bootstrap.js": "21ca929a115ea372b6758cbbe288b639",
+"flutter_bootstrap.js": "f3e38957e75f982cfcb4d99d612d65f5",
 "manifest.json": "50d696a6781c118a3ec9320f89364441"};
 // The application shell files that are downloaded before a service worker can
 // start.
