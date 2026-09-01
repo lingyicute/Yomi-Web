@@ -4,6 +4,9 @@
 
 [Yomi](https://yomi.92li.uk) is an open source [matrix](https://matrix.org) client written in [Flutter](https://flutter.dev). The goal of the app is to create an easy to use instant messenger which is libre and accessible for everyone.
 
+> [!tip]
+> 此存储库中保存的仅是静态构建产物，源码请参阅 [Yomi-Android](https://github.com/lingyicute/Yomi-Android)。/ This repository contains only static build artifacts. Please refer to the source code at [Yomi-Android](https://github.com/lingyicute/Yomi-Android).
+
 ## Features
 
 - 📩 Send all kinds of messages, images and files
